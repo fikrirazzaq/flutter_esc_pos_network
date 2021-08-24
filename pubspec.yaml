@@ -13,7 +13,7 @@ dependencies:
   flutter_esc_pos_utils:
     git:
       url: git://github.com/fikrirazzaq/flutter_esc_pos_utils.git
-      ref: 90d339ed98236bc217f931183e96f9e6f3a72c36
+      ref: c607c8cd51283ce3b0d04f960753a4aa0dd2ef9c
 
 dev_dependencies:
   flutter_test:
