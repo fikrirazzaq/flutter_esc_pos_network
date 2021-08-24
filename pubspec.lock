@@ -14,7 +14,7 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.7.0"
+    version: "2.6.1"
   boolean_selector:
     dependency: transitive
     description:
@@ -35,7 +35,7 @@ packages:
       name: charcode
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.1"
+    version: "1.2.0"
   clock:
     dependency: transitive
     description:
@@ -79,10 +79,12 @@ packages:
   flutter_esc_pos_utils:
     dependency: "direct main"
     description:
-      name: flutter_esc_pos_utils
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.4"
+      path: "."
+      ref: "90d339ed98236bc217f931183e96f9e6f3a72c36"
+      resolved-ref: "90d339ed98236bc217f931183e96f9e6f3a72c36"
+      url: "git://github.com/fikrirazzaq/flutter_esc_pos_utils.git"
+    source: git
+    version: "0.0.5"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -143,7 +145,7 @@ packages:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.4.0"
+    version: "1.3.0"
   path:
     dependency: transitive
     description:
@@ -157,7 +159,7 @@ packages:
       name: petitparser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.2.0"
+    version: "4.1.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -204,7 +206,7 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.4.1"
+    version: "0.3.0"
   typed_data:
     dependency: transitive
     description:

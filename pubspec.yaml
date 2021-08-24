@@ -10,7 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_esc_pos_utils: ^0.0.4
+  flutter_esc_pos_utils:
+    git:
+      url: git://github.com/fikrirazzaq/flutter_esc_pos_utils.git
+      ref: 90d339ed98236bc217f931183e96f9e6f3a72c36
 
 dev_dependencies:
   flutter_test:
